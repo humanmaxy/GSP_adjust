@@ -32,5 +32,5 @@ npy数据输入是陀螺仪测量值gyro、温度temp和实际转速target
   - 第一行含列说明，第二行含长度信息，其余为逐时刻数据。
 
 样例路径
-- 输入样例: `/workspace/data/samples/sample_small.npz`, `/workspace/data/samples/sample_small.txt`
-- 输出样例: `/workspace/data/samples/sample_small_out.npz`, `/workspace/data/samples/sample_small_out.txt
+- 输入样例: `sample_small.npz`, `/workspace/data/samples/sample_small.txt`
+- 输出样例: `sample_small_out.npz`, `/workspace/data/samples/sample_small_out.txt
